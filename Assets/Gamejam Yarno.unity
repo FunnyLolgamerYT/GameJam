@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 180119739}
   - component: {fileID: 180119738}
   - component: {fileID: 180119737}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Eye
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -453,7 +453,7 @@ GameObject:
   - component: {fileID: 276860755}
   - component: {fileID: 276860754}
   - component: {fileID: 276860753}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Capsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -558,7 +558,7 @@ GameObject:
   m_Component:
   - component: {fileID: 342780822}
   - component: {fileID: 342780823}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BottomRig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -573,7 +573,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 342780821}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.015626524, y: 0.98437226, z: -0.123233795, w: -0.124822244}
+  m_LocalRotation: {x: 0.09492617, y: 0.000000017128684, z: -0.000000001633336, w: 0.99548435}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -609,7 +609,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 67
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -637,7 +637,7 @@ GameObject:
   m_Component:
   - component: {fileID: 356104572}
   - component: {fileID: 356104573}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: MiddleRig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -652,7 +652,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 356104571}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.017888408, y: 0.9819746, z: -0.14107147, w: -0.124518186}
+  m_LocalRotation: {x: 0.12748133, y: 0.000000017065995, z: -0.0000000021934923, w: 0.991841}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 67
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -718,7 +718,7 @@ GameObject:
   - component: {fileID: 402107130}
   - component: {fileID: 402107129}
   - component: {fileID: 402107128}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -779,7 +779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9384ab8608cdc3d479fe89cd51eed48f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BindingMode: 5
+  m_BindingMode: 4
   m_FollowOffset: {x: 0, y: 1, z: -3}
   m_XDamping: 1
   m_YDamping: 1
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 508720841}
   - component: {fileID: 508720840}
   - component: {fileID: 508720839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Eye (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1161,7 +1161,7 @@ GameObject:
   - component: {fileID: 561021967}
   - component: {fileID: 561021966}
   - component: {fileID: 561021965}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1222,7 +1222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9384ab8608cdc3d479fe89cd51eed48f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BindingMode: 5
+  m_BindingMode: 4
   m_FollowOffset: {x: 0, y: 1, z: -3}
   m_XDamping: 1
   m_YDamping: 1
@@ -1288,7 +1288,7 @@ GameObject:
   - component: {fileID: 577583948}
   - component: {fileID: 577583947}
   - component: {fileID: 577583946}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shoe (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1607,7 +1607,7 @@ GameObject:
   - component: {fileID: 869378648}
   - component: {fileID: 869378647}
   - component: {fileID: 869378646}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Eye (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1924,7 +1924,7 @@ GameObject:
   - component: {fileID: 880931010}
   - component: {fileID: 880931009}
   - component: {fileID: 880931008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2136,7 +2136,7 @@ GameObject:
   - component: {fileID: 904137710}
   - component: {fileID: 904137709}
   - component: {fileID: 904137708}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cylinder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2240,7 +2240,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 919527775}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cameraholder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2381,7 +2381,7 @@ GameObject:
   - component: {fileID: 940213092}
   - component: {fileID: 940213091}
   - component: {fileID: 940213090}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: r
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2636,7 +2636,7 @@ GameObject:
   - component: {fileID: 1060307252}
   - component: {fileID: 1060307251}
   - component: {fileID: 1060307250}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2697,7 +2697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9384ab8608cdc3d479fe89cd51eed48f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BindingMode: 5
+  m_BindingMode: 4
   m_FollowOffset: {x: 0, y: 1, z: -3}
   m_XDamping: 1
   m_YDamping: 1
@@ -2763,7 +2763,7 @@ GameObject:
   - component: {fileID: 1060416418}
   - component: {fileID: 1060416417}
   - component: {fileID: 1060416416}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shoe (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3399,7 +3399,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1483138945}
   - component: {fileID: 1483138946}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TopRig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3414,7 +3414,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483138944}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.020150373, y: 0.97924614, z: -0.15890972, w: -0.12417223}
+  m_LocalRotation: {x: 0.16018225, y: 0.000000023309845, z: -0.000000003782667, w: 0.9870875}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3450,7 +3450,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 67
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -3584,7 +3584,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1508635887}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Camerapos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4244,7 +4244,7 @@ GameObject:
   - component: {fileID: 1717085535}
   - component: {fileID: 1717085536}
   - component: {fileID: 1717085537}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4298,7 +4298,7 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 1
+  m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
 --- !u!114 &1717085537
@@ -4539,7 +4539,7 @@ GameObject:
   - component: {fileID: 1924131447}
   - component: {fileID: 1924131446}
   - component: {fileID: 1924131445}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Eye (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4693,7 +4693,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 5000
-  field of view: 40
+  field of view: 67
   orthographic: 0
   orthographic size: 10
   m_Depth: -1
@@ -4719,8 +4719,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1938559086}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.017888412, y: 0.9819746, z: -0.1410715, w: -0.1245182}
-  m_LocalPosition: {x: -0.81321657, y: 1.789, z: -1.0739484}
+  m_LocalRotation: {x: 0.12748136, y: 0.00000002257619, z: -0.0000000029017182, w: 0.991841}
+  m_LocalPosition: {x: -1.562, y: 1.789, z: -6.979}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4772,7 +4772,7 @@ GameObject:
   - component: {fileID: 1945524520}
   - component: {fileID: 1945524519}
   - component: {fileID: 1945524518}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: r (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4877,7 +4877,7 @@ GameObject:
   - component: {fileID: 2083160347}
   - component: {fileID: 2083160346}
   - component: {fileID: 2083160345}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cylinder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4982,7 +4982,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2098425948}
   - component: {fileID: 2098425949}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: FreeLook Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4998,7 +4998,7 @@ Transform:
   m_GameObject: {fileID: 2098425947}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.81321657, y: 1.789, z: -1.0739484}
+  m_LocalPosition: {x: -1.562, y: 1.789, z: -6.979}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5029,7 +5029,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1717085535}
   m_CommonLens: 1
   m_Lens:
-    FieldOfView: 40
+    FieldOfView: 67
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -5098,7 +5098,7 @@ MonoBehaviour:
     m_RecenteringTime: 2
     m_LegacyHeadingDefinition: -1
     m_LegacyVelocityFilterStrength: -1
-  m_BindingMode: 5
+  m_BindingMode: 4
   m_SplineCurvature: 0.2
   m_Orbits:
   - m_Height: 3
