@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
+<<<<<<< refs/remotes/origin/Steefdingen
   m_Title: Inspector
+=======
+  m_Title: Project
+>>>>>>> .
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -321,7 +325,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< refs/remotes/origin/Steefdingen
     - Assets/Materials
+=======
+    - Assets/Scenes
+>>>>>>> .
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,16 +337,26 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< refs/remotes/origin/Steefdingen
   - Assets/Materials
+=======
+  - Assets/Scenes
+>>>>>>> .
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\GameJamWinter\GameJam
+  m_LastProjectPath: C:\Users\yarno\GameJam23\GameJam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< refs/remotes/origin/Steefdingen
     m_SelectedIDs: be5c0000
     m_LastClickedID: 23742
     m_ExpandedIDs: 00000000b45c000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: aa590000
+    m_LastClickedID: 22954
+    m_ExpandedIDs: 00000000a259000000ca9a3bffffff7f
+>>>>>>> .
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +384,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< refs/remotes/origin/Steefdingen
     m_ExpandedIDs: 00000000b45c0000
+=======
+    m_ExpandedIDs: 00000000a2590000
+>>>>>>> .
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +415,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -506,9 +528,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< refs/remotes/origin/Steefdingen
       m_SelectedIDs: 145c0000
       m_LastClickedID: 23572
       m_ExpandedIDs: 14fbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: cef7ffff30fbffff
+>>>>>>> .
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -875,9 +903,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< refs/remotes/origin/Steefdingen
     m_Target: {x: -4.99868, y: -0.007969961, z: -3.3172212}
     speed: 2
     m_Value: {x: -4.99868, y: -0.007969961, z: -3.3172212}
+=======
+    m_Target: {x: 1.3577819, y: -2.4668472, z: 6.812829}
+    speed: 2
+    m_Value: {x: 1.3577819, y: -2.4668472, z: 6.812829}
+>>>>>>> .
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -923,6 +957,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< refs/remotes/origin/Steefdingen
     m_Target: {x: -0.07384067, y: 0.65370077, z: -0.06398665, w: -0.7511266}
     speed: 2
     m_Value: {x: -0.073801465, y: 0.6533537, z: -0.06395268, w: -0.75072783}
@@ -930,13 +965,22 @@ MonoBehaviour:
     m_Target: 2.4414296
     speed: 2
     m_Value: 2.4414296
+=======
+    m_Target: {x: -0.2382987, y: -0.023617603, z: 0.0054191635, w: -0.9709113}
+    speed: 2
+    m_Value: {x: -0.23945855, y: -0.023610584, z: 0.0054473877, w: -0.9706042}
+  m_Size:
+    m_Target: 7.7213287
+    speed: 2
+    m_Value: 8.085161
+>>>>>>> .
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.0005
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 0.7006499
+    m_SpeedNormalized: 0.34999996
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
