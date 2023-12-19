@@ -3,8 +3,8 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 10f;
-    public float jumpForce = 10f;
+    public float speed = 100f;
+    public float jumpForce = 5f;
     private bool isGrounded;
 
     private Rigidbody rb;
@@ -27,12 +27,12 @@ public class PlayerMovement : MonoBehaviour
         if(Physics.Raycast(transform.position, Vector3.down, out hit, 1f, layerMask)) {
 
             Debug.DrawRay(transform.position, Vector3.down * hit.distance, Color.yellow);
-            Debug.Log("Did hit");
+           
             isGrounded = true;
 
         } else {
             Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * 1000, Color.white);
-            Debug.Log("Did not Hit");
+            
             isGrounded = false;
         }
 
