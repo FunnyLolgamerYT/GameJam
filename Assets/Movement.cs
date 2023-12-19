@@ -3,7 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed = 5f;
     public float jumpForce = 10f;
     private bool isGrounded;
 
